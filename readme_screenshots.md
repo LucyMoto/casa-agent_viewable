@@ -70,7 +70,7 @@ The system evaluates the listing and determines it is worth visiting.
 
 ---
 
-## 9. Financial Evaluation
+## 9. Example Result – Apartment 1 Financial Evaluation
 
 The financial agent evaluates affordability and price metrics.
 
@@ -78,7 +78,7 @@ The financial agent evaluates affordability and price metrics.
 
 ---
 
-## 10. Sunlight / Exposure Evaluation
+## 10. Example Result – Apartment 1 Sunlight / Exposure Evaluation
 
 The exposure agent evaluates sunlight and orientation.
 
@@ -86,7 +86,7 @@ The exposure agent evaluates sunlight and orientation.
 
 ---
 
-## 11. Commute Evaluation
+## 11. Example Result – Apartment 1 Commute Evaluation
 
 The commute agent evaluates travel time to important destinations.
 
